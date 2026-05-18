@@ -2,7 +2,7 @@
 
 Welkom bij mijn eerste project met Claude!
 
-Dit is een oefen-repository om te leren hoe pull requets werken.
+Dit is een oefen-repository om te leren hoe pull requests werken.
 
 ## Wat is een pull request?
 
